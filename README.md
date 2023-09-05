@@ -19,7 +19,7 @@
 </div>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonesmoura&hide_progress=false)
 
 
 ### E-mail: 📧
