@@ -1,4 +1,4 @@
-### Olá, eu sou o Jones! 👋🏾
+## Olá, eu sou o Jones! 👋🏾
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jones-moura/)
 
@@ -18,6 +18,7 @@
   <img align="center" alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </div>
+
 
 ### E-mail: 📧
 
