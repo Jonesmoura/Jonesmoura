@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Olá, eu sou o Jones! 👋🏾
 
 ![Jones's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonesmoura&show_icons=true&theme=dark)
@@ -22,5 +24,5 @@
 
 ### E-mail: 📧
 
-- [jones-ms@live.com](mailto:jones-ms@live.com)
-
+[jones-ms@live.com](mailto:jones-ms@live.com)
+</div>
